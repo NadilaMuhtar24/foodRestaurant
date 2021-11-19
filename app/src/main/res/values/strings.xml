@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RestaurantApp</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="Vegetarian">Vegetarian</string>
+    <string name="dessert">Dessert</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="garlic_butter_shrimp">Garlic Butter Shrimp</string>
+    <string name="imageview">Imageview</string>
+    <string name="txt_calories">Calories</string>
+    <string name="txt_300_kal">300 kalori</string>
+    <string name="txt_carbo">Carbo</string>
+    <string name="txt_protein">Protein</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_resep">Resep</string>
+    <string name="txt_ingredients">Ingredients</string>
+    <string name="txt_instruction">Instruction</string>
+</resources>
